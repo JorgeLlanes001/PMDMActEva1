@@ -173,17 +173,13 @@ app/
 
 El proyecto cumple todos los requisitos:
 
-✔ App nativa Android
-✔ Kotlin + layouts XML
-✔ Tres pantallas conectadas con Intents
-✔ Paso de información y validaciones
-✔ Diseño organizado con ConstraintLayout
-✔ Estilos personalizados
-✔ Icono de app propio
-✔ README detallado
+App nativa Android
+Kotlin + layouts XML
+Tres pantallas conectadas con Intents
+Paso de información y validaciones
+Diseño organizado con ConstraintLayout
+Estilos personalizados
+Icono de app propio
+README detallado
 
 Esta estructura permite seguir ampliando la aplicación de manera fácil, añadiendo más pantallas, más validaciones o nuevas funcionalidades.
-
----
-
-Si quieres, también te puedo generar el README en PDF, Word, Markdown descargable, etc. ¿Deseas exportarlo a algún formato?
